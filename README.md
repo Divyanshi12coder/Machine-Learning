@@ -1,10 +1,10 @@
-🤖 Machine Learning Portfolio
+### 🤖 Machine Learning Portfolio
 AI + Data Science Showcase  
 A curated collection of machine learning projects demonstrating practical applications, clean code, and deployment‑ready workflows.
 
 ---
 
-✨ Why This Repo Stands Out
+### ✨ Why This Repo Stands Out
 Hands‑On ML Projects: Iris Classification, Sentiment Analysis, Image Recognition
 
 Modern Tech Stack: Python, Scikit‑Learn, TensorFlow/Keras, Pandas, NumPy
@@ -17,7 +17,7 @@ Scalable Design: Easy to extend with new datasets or models
 
 ---
 
-🚀 Quick Start
+### 🚀 Quick Start
 Clone the repo:
 
 
@@ -34,7 +34,7 @@ jupyter notebook notebooks/Iris-Classification.ipynb
 
 ---
 
-📂 Project Structure
+### 📂 Project Structure
 Code
 Machine-Learning/
 │── datasets/        # Sample datasets (Git LFS tracked)
@@ -45,7 +45,7 @@ Machine-Learning/
 
 ---
 
-📸 Demo Projects
+### 📸 Demo Projects
 🌸 Iris Flower Classification → >95% accuracy using Decision Trees & Random Forests
 
 💬 Sentiment Analysis → NLP pipeline with Logistic Regression
@@ -54,7 +54,7 @@ Machine-Learning/
 
 ---
 
-🛠 Skills Demonstrated
+### 🛠 Skills Demonstrated
 Data preprocessing & feature engineering
 
 Model building & evaluation (accuracy, precision, recall, F1)
@@ -67,5 +67,5 @@ Git LFS for large datasets
 
 ---
 
-📜 License
+### 📜 License
 MIT License – free to use and adapt.
